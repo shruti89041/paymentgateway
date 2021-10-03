@@ -1,0 +1,36 @@
+
+
+    body{
+        background-color: rgb(181, 181, 243);
+        background-image: url(os.jpg);
+        background-color: aquamarine;
+        background-size: cover;
+        margin-right: 20%;
+        margin-top: 10%;
+        
+        
+        width: 100%;
+        background-position:center ;
+        nav-index: initial;
+
+    }
+    
+  .navbar navbar-dark bg-dark{
+      background-color: black;
+      color-scheme: black;
+  }
+  h2{
+      margin-left: 2cm;
+  }
+  h4{
+      margin-left: 1.5cm;
+  }
+  h1{
+      margin-left: 1.2cm;
+  }
+  
+ 
+   
+    
+    
+    
